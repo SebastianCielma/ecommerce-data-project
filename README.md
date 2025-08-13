@@ -20,10 +20,4 @@ This project enables **real-time monitoring of e-commerce orders and sales analy
 - **Data Storage:** Azure Blob Storage, Delta Lake  
 - **Visualization:** Power BI  
 
----
 
-## Installation & Setup
-1. Clone the repository:  
-```bash
-git clone https://github.com/Jay61616/realtime-ecommerce-insights-azure.git
-cd realtime-ecommerce-insights-azure
